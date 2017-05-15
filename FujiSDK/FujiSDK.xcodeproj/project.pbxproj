@@ -8,78 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		0126DEFF1E7A3B1D00EAEA44 /* FujiSDK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DEFE1E7A3B1D00EAEA44 /* FujiSDK.swift */; };
-		0126DF261E7A3B2200EAEA44 /* BasicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DF011E7A3B2200EAEA44 /* BasicViewController.swift */; };
-		0126DF271E7A3B2200EAEA44 /* ForgotPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DF021E7A3B2200EAEA44 /* ForgotPasswordViewController.swift */; };
-		0126DF281E7A3B2200EAEA44 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DF031E7A3B2200EAEA44 /* LoginViewController.swift */; };
-		0126DF291E7A3B2200EAEA44 /* PaymentTelcoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DF041E7A3B2200EAEA44 /* PaymentTelcoViewController.swift */; };
-		0126DF2A1E7A3B2200EAEA44 /* PaymentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DF051E7A3B2200EAEA44 /* PaymentViewController.swift */; };
-		0126DF2B1E7A3B2200EAEA44 /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DF061E7A3B2200EAEA44 /* SignupViewController.swift */; };
-		0126DF2C1E7A3B2200EAEA44 /* UpdatePasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DF071E7A3B2200EAEA44 /* UpdatePasswordViewController.swift */; };
-		0126DF2D1E7A3B2200EAEA44 /* UpdateUserInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DF081E7A3B2200EAEA44 /* UpdateUserInfoViewController.swift */; };
-		0126DF2E1E7A3B2200EAEA44 /* UserInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DF091E7A3B2200EAEA44 /* UserInfoViewController.swift */; };
-		0126DF2F1E7A3B2200EAEA44 /* Package.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DF0B1E7A3B2200EAEA44 /* Package.swift */; };
-		0126DF301E7A3B2200EAEA44 /* Payment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DF0C1E7A3B2200EAEA44 /* Payment.swift */; };
-		0126DF311E7A3B2200EAEA44 /* PaymentTelco.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DF0D1E7A3B2200EAEA44 /* PaymentTelco.swift */; };
-		0126DF321E7A3B2200EAEA44 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DF0E1E7A3B2200EAEA44 /* User.swift */; };
-		0126DF331E7A3B2200EAEA44 /* ic_appota.png in Resources */ = {isa = PBXBuildFile; fileRef = 0126DF111E7A3B2200EAEA44 /* ic_appota.png */; };
-		0126DF341E7A3B2200EAEA44 /* ic_appota_disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = 0126DF121E7A3B2200EAEA44 /* ic_appota_disabled.png */; };
-		0126DF351E7A3B2200EAEA44 /* ic_mega.png in Resources */ = {isa = PBXBuildFile; fileRef = 0126DF131E7A3B2200EAEA44 /* ic_mega.png */; };
-		0126DF361E7A3B2200EAEA44 /* ic_mega_disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = 0126DF141E7A3B2200EAEA44 /* ic_mega_disabled.png */; };
-		0126DF371E7A3B2200EAEA44 /* ic_mobiphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 0126DF151E7A3B2200EAEA44 /* ic_mobiphone.png */; };
-		0126DF381E7A3B2200EAEA44 /* ic_mobiphone_disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = 0126DF161E7A3B2200EAEA44 /* ic_mobiphone_disabled.png */; };
-		0126DF391E7A3B2200EAEA44 /* ic_vcoin.png in Resources */ = {isa = PBXBuildFile; fileRef = 0126DF171E7A3B2200EAEA44 /* ic_vcoin.png */; };
-		0126DF3A1E7A3B2200EAEA44 /* ic_vcoin_disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = 0126DF181E7A3B2200EAEA44 /* ic_vcoin_disabled.png */; };
-		0126DF3B1E7A3B2200EAEA44 /* ic_viettel.png in Resources */ = {isa = PBXBuildFile; fileRef = 0126DF191E7A3B2200EAEA44 /* ic_viettel.png */; };
-		0126DF3C1E7A3B2200EAEA44 /* ic_viettel_disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = 0126DF1A1E7A3B2200EAEA44 /* ic_viettel_disabled.png */; };
-		0126DF3D1E7A3B2200EAEA44 /* ic_vinaphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 0126DF1B1E7A3B2200EAEA44 /* ic_vinaphone.png */; };
-		0126DF3E1E7A3B2200EAEA44 /* ic_vinaphone_disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = 0126DF1C1E7A3B2200EAEA44 /* ic_vinaphone_disabled.png */; };
-		0126DF3F1E7A3B2200EAEA44 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 0126DF1D1E7A3B2200EAEA44 /* logo.png */; };
-		0126DF401E7A3B2200EAEA44 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DF1F1E7A3B2200EAEA44 /* Constant.swift */; };
-		0126DF411E7A3B2200EAEA44 /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DF201E7A3B2200EAEA44 /* Logger.swift */; };
-		0126DF421E7A3B2200EAEA44 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DF211E7A3B2200EAEA44 /* Utils.swift */; };
-		0126DF431E7A3B2200EAEA44 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DF231E7A3B2200EAEA44 /* Alert.swift */; };
-		0126DF441E7A3B2200EAEA44 /* Indicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DF241E7A3B2200EAEA44 /* Indicator.swift */; };
-		0126DF451E7A3B2200EAEA44 /* Toast.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0126DF251E7A3B2200EAEA44 /* Toast.swift */; };
 		0126DF4B1E7A3C4D00EAEA44 /* FujiSDK.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0126DF481E7A3C4D00EAEA44 /* FujiSDK.storyboard */; };
+		8453D7ED1EC9FB77007478B7 /* FujiSDK-Bridging-Header.h in Headers */ = {isa = PBXBuildFile; fileRef = 8453D7EC1EC9FB77007478B7 /* FujiSDK-Bridging-Header.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0126DECD1E794CB900EAEA44 /* FujiSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FujiSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0126DED11E794CB900EAEA44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0126DEFE1E7A3B1D00EAEA44 /* FujiSDK.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FujiSDK.swift; sourceTree = "<group>"; };
-		0126DF011E7A3B2200EAEA44 /* BasicViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BasicViewController.swift; sourceTree = "<group>"; };
-		0126DF021E7A3B2200EAEA44 /* ForgotPasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgotPasswordViewController.swift; sourceTree = "<group>"; };
-		0126DF031E7A3B2200EAEA44 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
-		0126DF041E7A3B2200EAEA44 /* PaymentTelcoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaymentTelcoViewController.swift; sourceTree = "<group>"; };
-		0126DF051E7A3B2200EAEA44 /* PaymentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaymentViewController.swift; sourceTree = "<group>"; };
-		0126DF061E7A3B2200EAEA44 /* SignupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
-		0126DF071E7A3B2200EAEA44 /* UpdatePasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UpdatePasswordViewController.swift; sourceTree = "<group>"; };
-		0126DF081E7A3B2200EAEA44 /* UpdateUserInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UpdateUserInfoViewController.swift; sourceTree = "<group>"; };
-		0126DF091E7A3B2200EAEA44 /* UserInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserInfoViewController.swift; sourceTree = "<group>"; };
-		0126DF0B1E7A3B2200EAEA44 /* Package.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
-		0126DF0C1E7A3B2200EAEA44 /* Payment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Payment.swift; sourceTree = "<group>"; };
-		0126DF0D1E7A3B2200EAEA44 /* PaymentTelco.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaymentTelco.swift; sourceTree = "<group>"; };
-		0126DF0E1E7A3B2200EAEA44 /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
-		0126DF111E7A3B2200EAEA44 /* ic_appota.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_appota.png; sourceTree = "<group>"; };
-		0126DF121E7A3B2200EAEA44 /* ic_appota_disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_appota_disabled.png; sourceTree = "<group>"; };
-		0126DF131E7A3B2200EAEA44 /* ic_mega.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_mega.png; sourceTree = "<group>"; };
-		0126DF141E7A3B2200EAEA44 /* ic_mega_disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_mega_disabled.png; sourceTree = "<group>"; };
-		0126DF151E7A3B2200EAEA44 /* ic_mobiphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_mobiphone.png; sourceTree = "<group>"; };
-		0126DF161E7A3B2200EAEA44 /* ic_mobiphone_disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_mobiphone_disabled.png; sourceTree = "<group>"; };
-		0126DF171E7A3B2200EAEA44 /* ic_vcoin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_vcoin.png; sourceTree = "<group>"; };
-		0126DF181E7A3B2200EAEA44 /* ic_vcoin_disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_vcoin_disabled.png; sourceTree = "<group>"; };
-		0126DF191E7A3B2200EAEA44 /* ic_viettel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_viettel.png; sourceTree = "<group>"; };
-		0126DF1A1E7A3B2200EAEA44 /* ic_viettel_disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_viettel_disabled.png; sourceTree = "<group>"; };
-		0126DF1B1E7A3B2200EAEA44 /* ic_vinaphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_vinaphone.png; sourceTree = "<group>"; };
-		0126DF1C1E7A3B2200EAEA44 /* ic_vinaphone_disabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_vinaphone_disabled.png; sourceTree = "<group>"; };
-		0126DF1D1E7A3B2200EAEA44 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
-		0126DF1F1E7A3B2200EAEA44 /* Constant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
-		0126DF201E7A3B2200EAEA44 /* Logger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Logger.swift; sourceTree = "<group>"; };
-		0126DF211E7A3B2200EAEA44 /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
-		0126DF231E7A3B2200EAEA44 /* Alert.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
-		0126DF241E7A3B2200EAEA44 /* Indicator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Indicator.swift; sourceTree = "<group>"; };
-		0126DF251E7A3B2200EAEA44 /* Toast.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Toast.swift; sourceTree = "<group>"; };
 		0126DF491E7A3C4D00EAEA44 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/FujiSDK.storyboard; sourceTree = "<group>"; };
+		8453D7EC1EC9FB77007478B7 /* FujiSDK-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "FujiSDK-Bridging-Header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +50,7 @@
 		0126DECF1E794CB900EAEA44 /* FujiSDK */ = {
 			isa = PBXGroup;
 			children = (
+				8453D7EC1EC9FB77007478B7 /* FujiSDK-Bridging-Header.h */,
 				0126DF001E7A3B2200EAEA44 /* controllers */,
 				0126DF0A1E7A3B2200EAEA44 /* models */,
 				0126DF0F1E7A3B2200EAEA44 /* resources */,
@@ -127,15 +66,6 @@
 		0126DF001E7A3B2200EAEA44 /* controllers */ = {
 			isa = PBXGroup;
 			children = (
-				0126DF011E7A3B2200EAEA44 /* BasicViewController.swift */,
-				0126DF021E7A3B2200EAEA44 /* ForgotPasswordViewController.swift */,
-				0126DF031E7A3B2200EAEA44 /* LoginViewController.swift */,
-				0126DF041E7A3B2200EAEA44 /* PaymentTelcoViewController.swift */,
-				0126DF051E7A3B2200EAEA44 /* PaymentViewController.swift */,
-				0126DF061E7A3B2200EAEA44 /* SignupViewController.swift */,
-				0126DF071E7A3B2200EAEA44 /* UpdatePasswordViewController.swift */,
-				0126DF081E7A3B2200EAEA44 /* UpdateUserInfoViewController.swift */,
-				0126DF091E7A3B2200EAEA44 /* UserInfoViewController.swift */,
 			);
 			path = controllers;
 			sourceTree = "<group>";
@@ -143,10 +73,6 @@
 		0126DF0A1E7A3B2200EAEA44 /* models */ = {
 			isa = PBXGroup;
 			children = (
-				0126DF0B1E7A3B2200EAEA44 /* Package.swift */,
-				0126DF0C1E7A3B2200EAEA44 /* Payment.swift */,
-				0126DF0D1E7A3B2200EAEA44 /* PaymentTelco.swift */,
-				0126DF0E1E7A3B2200EAEA44 /* User.swift */,
 			);
 			path = models;
 			sourceTree = "<group>";
@@ -162,19 +88,6 @@
 		0126DF101E7A3B2200EAEA44 /* images */ = {
 			isa = PBXGroup;
 			children = (
-				0126DF111E7A3B2200EAEA44 /* ic_appota.png */,
-				0126DF121E7A3B2200EAEA44 /* ic_appota_disabled.png */,
-				0126DF131E7A3B2200EAEA44 /* ic_mega.png */,
-				0126DF141E7A3B2200EAEA44 /* ic_mega_disabled.png */,
-				0126DF151E7A3B2200EAEA44 /* ic_mobiphone.png */,
-				0126DF161E7A3B2200EAEA44 /* ic_mobiphone_disabled.png */,
-				0126DF171E7A3B2200EAEA44 /* ic_vcoin.png */,
-				0126DF181E7A3B2200EAEA44 /* ic_vcoin_disabled.png */,
-				0126DF191E7A3B2200EAEA44 /* ic_viettel.png */,
-				0126DF1A1E7A3B2200EAEA44 /* ic_viettel_disabled.png */,
-				0126DF1B1E7A3B2200EAEA44 /* ic_vinaphone.png */,
-				0126DF1C1E7A3B2200EAEA44 /* ic_vinaphone_disabled.png */,
-				0126DF1D1E7A3B2200EAEA44 /* logo.png */,
 			);
 			path = images;
 			sourceTree = "<group>";
@@ -182,9 +95,6 @@
 		0126DF1E1E7A3B2200EAEA44 /* utils */ = {
 			isa = PBXGroup;
 			children = (
-				0126DF1F1E7A3B2200EAEA44 /* Constant.swift */,
-				0126DF201E7A3B2200EAEA44 /* Logger.swift */,
-				0126DF211E7A3B2200EAEA44 /* Utils.swift */,
 			);
 			path = utils;
 			sourceTree = "<group>";
@@ -192,9 +102,6 @@
 		0126DF221E7A3B2200EAEA44 /* views */ = {
 			isa = PBXGroup;
 			children = (
-				0126DF231E7A3B2200EAEA44 /* Alert.swift */,
-				0126DF241E7A3B2200EAEA44 /* Indicator.swift */,
-				0126DF251E7A3B2200EAEA44 /* Toast.swift */,
 			);
 			path = views;
 			sourceTree = "<group>";
@@ -206,6 +113,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8453D7ED1EC9FB77007478B7 /* FujiSDK-Bridging-Header.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,20 +177,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0126DF3F1E7A3B2200EAEA44 /* logo.png in Resources */,
-				0126DF371E7A3B2200EAEA44 /* ic_mobiphone.png in Resources */,
-				0126DF3A1E7A3B2200EAEA44 /* ic_vcoin_disabled.png in Resources */,
-				0126DF3E1E7A3B2200EAEA44 /* ic_vinaphone_disabled.png in Resources */,
-				0126DF381E7A3B2200EAEA44 /* ic_mobiphone_disabled.png in Resources */,
-				0126DF3C1E7A3B2200EAEA44 /* ic_viettel_disabled.png in Resources */,
 				0126DF4B1E7A3C4D00EAEA44 /* FujiSDK.storyboard in Resources */,
-				0126DF391E7A3B2200EAEA44 /* ic_vcoin.png in Resources */,
-				0126DF341E7A3B2200EAEA44 /* ic_appota_disabled.png in Resources */,
-				0126DF331E7A3B2200EAEA44 /* ic_appota.png in Resources */,
-				0126DF3D1E7A3B2200EAEA44 /* ic_vinaphone.png in Resources */,
-				0126DF351E7A3B2200EAEA44 /* ic_mega.png in Resources */,
-				0126DF361E7A3B2200EAEA44 /* ic_mega_disabled.png in Resources */,
-				0126DF3B1E7A3B2200EAEA44 /* ic_viettel.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,26 +188,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0126DF2F1E7A3B2200EAEA44 /* Package.swift in Sources */,
-				0126DF2D1E7A3B2200EAEA44 /* UpdateUserInfoViewController.swift in Sources */,
-				0126DF2A1E7A3B2200EAEA44 /* PaymentViewController.swift in Sources */,
-				0126DF441E7A3B2200EAEA44 /* Indicator.swift in Sources */,
-				0126DF401E7A3B2200EAEA44 /* Constant.swift in Sources */,
-				0126DF271E7A3B2200EAEA44 /* ForgotPasswordViewController.swift in Sources */,
-				0126DF431E7A3B2200EAEA44 /* Alert.swift in Sources */,
-				0126DF2C1E7A3B2200EAEA44 /* UpdatePasswordViewController.swift in Sources */,
-				0126DF2B1E7A3B2200EAEA44 /* SignupViewController.swift in Sources */,
-				0126DF2E1E7A3B2200EAEA44 /* UserInfoViewController.swift in Sources */,
-				0126DF411E7A3B2200EAEA44 /* Logger.swift in Sources */,
 				0126DEFF1E7A3B1D00EAEA44 /* FujiSDK.swift in Sources */,
-				0126DF321E7A3B2200EAEA44 /* User.swift in Sources */,
-				0126DF451E7A3B2200EAEA44 /* Toast.swift in Sources */,
-				0126DF421E7A3B2200EAEA44 /* Utils.swift in Sources */,
-				0126DF311E7A3B2200EAEA44 /* PaymentTelco.swift in Sources */,
-				0126DF301E7A3B2200EAEA44 /* Payment.swift in Sources */,
-				0126DF261E7A3B2200EAEA44 /* BasicViewController.swift in Sources */,
-				0126DF281E7A3B2200EAEA44 /* LoginViewController.swift in Sources */,
-				0126DF291E7A3B2200EAEA44 /* PaymentTelcoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -444,6 +320,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.fuji.FujiSDK;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "FujiSDK-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 			};

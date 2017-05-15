@@ -8,7 +8,6 @@
 
 import Foundation
 import UIKit
-import FacebookCore
 //import Goo
 
 @objc public class FujiSDK : NSObject {
